@@ -1,5 +1,5 @@
 function loader(source){
-  //console.log('logger1-loader');
-  return source+'//logger1';
+  //console.log('logger2-loader');
+  return source+'//logger2';
 }
 module.exports = loader;
